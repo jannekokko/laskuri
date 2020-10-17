@@ -24,7 +24,7 @@ public class Laskuri{
     		this.tapahtumia = 0;
   	}
 	public String toString(){
-		return "Laskurin lukema on " + this.tapahtumia;
+		return "Laskuri näyttää " + this.tapahtumia;
 	}
 
 }
